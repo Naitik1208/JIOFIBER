@@ -1,4 +1,4 @@
-#RUN CUSTOM SCRIPTS ON JIO ROUTER
+# RUN CUSTOM SCRIPTS ON JIO ROUTER
 
 This guide is only for educational purposes, I am not responsible for bricked routers, Try at your own risk. 
 
