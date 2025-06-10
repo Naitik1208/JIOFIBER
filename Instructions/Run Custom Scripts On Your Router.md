@@ -31,12 +31,14 @@ Create any script in this directory using command
 
 **LOOP TO RUN SCRIPTS IN A DIRECTORY**
 
-for i in /flash2/pfrm2.0/etc/init.d.user/*.sh; do
+`for i in /flash2/pfrm2.0/etc/init.d.user/*.sh; do
 if [ -x "$i" ]; then # Check if the file exists and is executable
 echo "Executing custom script: $i"
-"$i" & # Run in the background (optional, depends on your needs) # Or run in the foreground: # "$i"
+"$i" & # Run in the background (optional, depends on your needs) 
+# Or run in the foreground: 
+# "$i"
 fi
-done
+done`
 
 Here I have used /flash2/pfrm2.0/etc as path to scripts you may use any path as per your convenience. 
 
