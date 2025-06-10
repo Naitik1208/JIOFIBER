@@ -13,6 +13,7 @@ You may use the path `/flash2/scripts`
 
 To do so use commands
 `mkdir /flash2`
+
 `mkdir /flash2/scripts`
 
 Create any script in this directory using command 
