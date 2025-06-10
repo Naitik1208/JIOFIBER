@@ -1,0 +1,4 @@
+To decrypt config file use keyguesser.py
+Install python on your system.
+Open the `keyguesser.py` 
+The config file looks like `RSTXXXXXXX_JCXXXXX.enc`
