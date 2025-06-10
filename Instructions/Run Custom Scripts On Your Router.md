@@ -17,15 +17,29 @@ Successfully Tested on JIO JCOW404 ROUTER.
 path to script - where u stored script
 or you can store scripts in directory and use a loop like I did
 
-You may use the path `/flash2/scripts`
+You may use the path `/flash2/pfrm2.0/etc`
 
 To do so use commands
 `mkdir /flash2`
 
-`mkdir /flash2/scripts`
+`mkdir /flash2/pfrm2.0`
+
+`mkdir /flash2/pfrm2.0/etc`
 
 Create any script in this directory using command 
 `vi /flash2/scripts/scriptname.sh`
+
+**LOOP TO RUN SCRIPTS IN A DIRECTORY**
+for i in /flash2/pfrm2.0/etc/init.d.user/*.sh; do
+if [ -x "$i" ]; then # Check if the file exists and is executable
+echo "Executing custom script: $i"
+"$i" & # Run in the background (optional, depends on your needs)
+# Or run in the foreground:
+# "$i"
+fi
+done
+
+Here I have used /flash2/pfrm2.0/etc as path to scripts you may use any path as per your convenience. 
 
 
 
