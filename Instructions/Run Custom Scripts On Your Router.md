@@ -1,3 +1,11 @@
+#RUN CUSTOM SCRIPTS ON JIO ROUTER
+
+This guide is only for educational purposes, I am not responsible for bricked routers, Try at your own risk. 
+
+**Keep in mind you are changing commands in root partition, so don't try to experiment without knowing what you are doing as it may brick your router.**
+
+Successfully Tested on JIO JCOW404 ROUTER. 
+
 1.Create your script using telnet and store in a directory.
 
 2.Go to `/etc/init.d`
