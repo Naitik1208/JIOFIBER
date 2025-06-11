@@ -1,5 +1,5 @@
 # JF CUSTOMIZATIONS
-TIPS, TRICKS AND HACKS FOR JIO ROUTERS
+TIPS, TRICKS AND HACKS FOR JIO ROUTERS /n
 This repository contains all the files and instructions to customize your JF ONT Gateway. You can find instructions for miscellaneous customizations below.
 
 [Decrypt Config file](https://github.com/Naitik1208/JF-ROUTER/blob/main/Instructions/Decrypt%20Config%20File.md)
