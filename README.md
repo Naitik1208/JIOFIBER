@@ -1,6 +1,7 @@
 # JF CUSTOMIZATIONS
 TIPS, TRICKS AND HACKS FOR JIO ROUTERS <br />
 This repository contains all the files and instructions to customize your JF ONT Gateway. You can find instructions for miscellaneous customizations below. <br />
+All instructions are testen on JCOW404 and JCOW4032 <br/>
 # Instuctions:-
 
 1.[Decrypt Config file](https://github.com/Naitik1208/JF-ROUTER/blob/main/Instructions/Decrypt%20Config%20File.md)
