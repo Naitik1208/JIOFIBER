@@ -1,4 +1,4 @@
-8# JF CUSTOMIZATIONS
+# JF CUSTOMIZATIONS
 TIPS, TRICKS AND HACKS FOR JF ROUTERS <br />
 This repository contains all the files and instructions to customize your JF ONT Gateway. You can find instructions for miscellaneous customizations below. <br />
 All instructions are tested on JCOW404 <br/>
