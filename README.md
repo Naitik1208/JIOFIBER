@@ -14,4 +14,4 @@ All instructions are testen on JIOFIBER JCOW404 and JCOW4032 <br/>
 
 5.[Way to get any file directly from your Jio Router's Filesystem to your pendrive](https://github.com/Naitik1208/JF-ROUTER/blob/main/Instructions/Way%20to%20get%20any%20file%20directly%20from%20your%20Jio%20Router's%20Filesystem%20to%20your%20pendrive.md) [Working as of 3rd January 2023] <br />
 
-[Downgrade Firmware (At Your Own Risk)](https://github.com/Naitik1208/JF-ROUTER/blob/main/Instructions/Downgrade%20Firmware.md) 
+6.[Downgrade Firmware (At Your Own Risk)](https://github.com/Naitik1208/JF-ROUTER/blob/main/Instructions/Downgrade%20Firmware.md) 
